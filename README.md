@@ -1,4 +1,11 @@
 # Big Data Project: Real-Time Twitter Sentiment Analysis Using Kafka, Spark (MLLib & Streaming), MongoDB and Django.
+# Team Members
+
+| Name           | PRN          |
+|----------------|--------------|
+| **Karan Kamble** | 23070122504 |
+| **Tejas Lahade** | 23070122505 |
+| **Hrithik Rayapati** | 22070122082 |
 
 ## Overview
 
