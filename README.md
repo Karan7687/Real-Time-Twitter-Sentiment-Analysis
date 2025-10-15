@@ -175,9 +175,9 @@ this is an img of the MongoDBCompass after Running the Kafka and Spark Streaming
 - in the Dashboard, There is a table contains tweets with labels.
 - in the Dashboard, There is 3 statistics or plots : labels rates - pie plot - bar plot.
 
-Abdelmalek Essaadi University - Faculty of Sciences and Technology of Tangier
+Symbiosis Institute of Technology, Pune
 
-- Master: Artificial Intelligence and Data Science
+- BTech CSE
 - Module: Big Data
 
 ---
